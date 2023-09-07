@@ -1,7 +1,7 @@
 <h1 align="center">Roblox Cookie Checker em JavaScript para Termux</h1>
 
 <p align="center">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/seu-usuario/seu-repo">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/skyless0/skyless-checker-v1">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/seu-usuario/seu-repo">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/seu-usuario/seu-repo?style=social">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/seu-usuario/seu-repo?style=social">
