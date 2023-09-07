@@ -1,4 +1,4 @@
-# Roblox Cookie Checker em JavaScript para Termux
+# Skyless Checker V1 em JavaScript para Termux
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repo)
 ![GitHub contributors](https://img.shields.io/github/contributors/seu-usuario/seu-repo)
