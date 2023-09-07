@@ -1,4 +1,4 @@
-<h1 align="center">Roblox Cookie Checker em JavaScript para Termux</h1>
+<h1 align="center">Skyless Checker V1 para Termux</h1>
 
 <p align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/skyless0/skyless-checker-v1">
