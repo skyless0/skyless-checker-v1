@@ -2,10 +2,10 @@
 
 <p align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/skyless0/skyless-checker-v1">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/seu-usuario/seu-repo">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/seu-usuario/seu-repo?style=social">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/seu-usuario/seu-repo?style=social">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/seu-usuario/seu-repo">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/skyless0/skyless-checker-v1">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/skyless0/skyless-checker-v1?style=social">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/skyless0/skyless-checker-v1?style=social">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/skyless0/skyless-checker-v1">
 </p>
 
 <p align="center">
