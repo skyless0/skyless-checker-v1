@@ -21,4 +21,4 @@ Certifique-se de que você tenha o [Termux](https://termux.com/) instalado em se
 1. **Clone este repositório** para o seu dispositivo:
 
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repo.git](https://github.com/skyless0/skyless-checker-v1)https://github.com/skyless0/skyless-checker-v1
+   git clone https://github.com/skyless0/skyless-checker-v1
